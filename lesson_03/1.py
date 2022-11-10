@@ -4,3 +4,7 @@ def foo():
 
 def bar():
     pass
+
+
+def test():
+    pass
