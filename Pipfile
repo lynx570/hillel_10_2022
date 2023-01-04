@@ -4,10 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-black = "*"
-flake8 = "*"
+black = "==20.10.0"
+flake8 = "==5.0.4"
 pre-commit = "*"
-isort = "*"
+isort = "==5.10.1"
 
 [dev-packages]
 
